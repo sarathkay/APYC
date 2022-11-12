@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x488134587E3546A5EA48c938Dd9d2b32d37dfD9F",
+  "SCAN_LINK": "https://polygonscan.com/address/0x488134587E3546A5EA48c938Dd9d2b32d37dfD9F",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Ape Punks Yacht Club",
+  "SYMBOL": "APYC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4.00,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/apepunksyachtclub",
+  "SHOW_BACKGROUND": true
+}
